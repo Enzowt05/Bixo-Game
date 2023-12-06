@@ -1,4 +1,4 @@
 # Bixo-Game
- 🐵 A design template for an educational website, similar to a quiz. Made in Figma!
+ 🐵 A design template for an educational website, similar to a  school quiz. Made in Figma!
 
  https://www.figma.com/community/file/1313644987068321810/bixo-game
